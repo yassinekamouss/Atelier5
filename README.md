@@ -13,8 +13,8 @@ This project is a **real-time stock tracking application** built with Laravel an
 ## Installation Guide
 ### 1. Clone the Repository
 ```sh
-git clone https://github.com/yassinekamouss/Atelier5.git
-cd Atelier5
+git clone https://github.com/yassinekamouss/Atelier5_Exo4.git
+cd Atelier5_Exo4
 ```
 
 ### 2. Install Dependencies
